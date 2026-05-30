@@ -3,7 +3,7 @@
 💻 Software Developer | Python Developer
 
 ## About Me
-Backend Developer | Python • FastAPI • MySQL | Data Analytics | DevOps Enthusiast | AI Automation Explorer
+### Backend Developer | Python • FastAPI • MySQL | Data Analytics | DevOps Enthusiast | AI Automation Explorer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sudip_17x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudip-ghosh-758463304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudip17x@gmail.com) 
